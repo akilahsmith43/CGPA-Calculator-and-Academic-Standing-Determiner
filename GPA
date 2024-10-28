@@ -15,7 +15,6 @@ elif grade1 == "F":
 else:
     print("error")
     exit()
-
 grade2 = input("Enter the grade for subject2 (A, B, C, D, F): \n")
 if grade2 == "A":
     c2_qpts = 4.0
